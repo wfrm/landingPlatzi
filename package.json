@@ -1,0 +1,23 @@
+{
+  "name": "landingPlatzi",
+  "version": "1.0.0",
+  "description": "practica del curso platzi de asincronismo con",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfrm/landingPlatzi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfrm/landingPlatzi/issues"
+  },
+  "homepage": "https://github.com/wfrm/landingPlatzi#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  }
+}
